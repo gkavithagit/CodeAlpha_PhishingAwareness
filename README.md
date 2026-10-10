@@ -2,9 +2,9 @@ CodeAlpha Phishing Awareness Training
 
 Project Overview
 
-Phishing is a social engineering attack in which an attacker impersonates a trusted person or organization to manipulate individuals into revealing sensitive information or performing unsafe actions.
+This project focuses on cybersecurity awareness, with particular emphasis on phishing attacks, social engineering techniques, suspicious email identification, and safe online practices.
 
-This project aims to educate users about phishing attacks, identify common warning signs, explain social engineering techniques, and promote safer online behavior.
+Developed as part of the CodeAlpha Cybersecurity Internship, the project aims to help users recognize potential phishing attempts and understand appropriate prevention measures.
 
 Objectives
 
@@ -12,7 +12,7 @@ Objectives
 - Identify suspicious emails and potentially fraudulent websites.
 - Recognize social engineering techniques.
 - Learn safe methods for verifying unexpected messages.
-- Test cybersecurity awareness through an interactive quiz.
+- Test phishing awareness through an educational quiz.
 - Promote responsible cybersecurity practices.
 
 Project Components
@@ -20,22 +20,36 @@ Project Components
 1. Phishing awareness presentation.
 2. Fictional phishing email analysis.
 3. Interactive phishing awareness quiz.
-4. Security recommendations and prevention guide.
-5. Project report and demonstration.
+4. Prevention recommendations.
+5. Project report and demonstration video.
 
-Technologies and Tools
+Tools Used
 
-- Canva or Gamma for presentation design.
-- GitHub for project documentation and version control.
-- Markdown for technical documentation.
+- Gamma AI — presentation development.
+- GitHub — source material and project documentation.
+- Markdown — technical documentation.
 
-Expected Learning Outcomes
+Repository Structure
 
-By completing this project, I aim to improve my understanding of phishing attacks, social engineering, email security, and practical cybersecurity awareness.
+CodeAlpha_PhishingAwareness/
+├── README.md
+├── presentation/
+│   └── phishing_awareness.pdf
+├── examples/
+│   └── phishing_email_analysis.md
+├── quiz/
+│   └── phishing_quiz.md
+├── screenshots/
+└── report/
+    └── project_report.md
+
+Key Learning Outcomes
+
+Through this project, I am developing my understanding of phishing indicators, social engineering, email security, independent verification, and cybersecurity awareness.
 
 Ethical Considerations
 
-This project is intended exclusively for cybersecurity education and awareness. All phishing examples are fictional. The project does not collect credentials or target real individuals.
+All examples are fictional and intended for education. This project does not collect credentials, create credential-stealing pages, or target real individuals.
 
 Internship
 
